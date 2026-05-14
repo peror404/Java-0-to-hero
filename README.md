@@ -269,14 +269,6 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
-## 📧 Contact & Support
-
-- **Issues**: Found a bug? [Open an issue](https://github.com/yourusername/java-0-to-hero/issues)
-- **Discussions**: Have questions? [Start a discussion](https://github.com/yourusername/java-0-to-hero/discussions)
-- **Email**: your.email@example.com
-
----
-
 ## ⭐ Show Your Support
 
 If you find this repository helpful, please consider:
@@ -284,12 +276,6 @@ If you find this repository helpful, please consider:
 - 🍴 Forking it to create your own version
 - 📢 Sharing it with fellow learners
 - 💬 Providing feedback
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
